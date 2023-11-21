@@ -1,0 +1,11 @@
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Go1LoginApplication.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Controller/User_registerController.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Entity/User_registry.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Repository/User_registryRepo.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Controller/User_loginController.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Entity/User_login.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Exception/GlobalExceptionHandler.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Repository/User_loginRepo.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Controller/AdminController.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Repository/AdminRepo.java
+/Users/klp/Downloads/GO1_login/src/main/java/com/lulu02/GO1_login/Entity/Admin.java
